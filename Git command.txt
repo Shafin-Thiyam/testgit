@@ -17,3 +17,9 @@ git clone
 
 To show which branch of the repositories u r mapped to and is there any pending changes you can check using this command
 git status
+
+If there is any pending changes and to push it to repositories we use following command
+git add *
+git commit -m"<description of the commit>"
+
+ 
