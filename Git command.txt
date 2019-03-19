@@ -1,0 +1,19 @@
+https://help.github.com/articles/fork-a-repo/
+
+
+git init --> To initialize
+git remote add origin "<git link>" <-- linking to server repositories
+git pull origin master <-- pulling to local repositories from remote
+
+
+git Udemy
+Git require 2 bit of information that git automatically figure out if we dont provide information but its recommended to create those config
+git config --global user.name "shafin thiyam"
+git config --global user.email "shafin.thiyam@outlook.com"
+git config --global --list --> this give the detail which u just created
+
+Clone the repositories
+git clone
+
+To show which branch of the repositories u r mapped to and is there any pending changes you can check using this command
+git status
