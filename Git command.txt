@@ -21,5 +21,4 @@ git status
 If there is any pending changes and to push it to repositories we use following command
 git add *
 git commit -m"<description of the commit>"
-
- 
+git push origin master
